@@ -78,12 +78,12 @@ keras-tuner==1.4.6
 git clone <your-repo-link>
 cd <repo-folder>
 pip install -r requirements.txt
-
+```
 3. **Launch Jupyter Notebook**
 
 ```bash
 jupyter notebook "Finalcode (1).ipynb"
-
+```
 and run all the cells
 
 
